@@ -1,0 +1,1 @@
+import{a8 as t,a9 as a}from"./index-nS8LAQjE.js";const g=s=>t.get(a+"/task/list",s,{loading:!1}),o=s=>t.get(a+"/task/logs",s,{loading:!1}),r=s=>t.get(a+"/task/itemLog",s,{loading:!1}),n=()=>t.get(a+"/task/address",{},{loading:!1});export{n as a,r as b,o as c,g};

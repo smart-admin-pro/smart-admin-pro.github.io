@@ -1,0 +1,1 @@
+import{a8 as a,a9 as e}from"./index-nS8LAQjE.js";const d=t=>a.get(e+"/dict/page",t,{loading:!1}),i=t=>a.get(e+"/dict-data/page",t,{loading:!1}),c=t=>a.post(e+"/dict-data/add",t),o=t=>a.post(e+"/dict-data/edit",t);export{c as a,d as b,o as e,i as g};
